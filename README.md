@@ -4,7 +4,7 @@ Se desarrolla un Carrusel utilizando la librería [Embla Carousel](https://www.e
 
 ### Documentación
 
-Para una explicación detallada del desarrollo del proyecto y el uso de la librería Embla Carousel, has clic [aquí]().
+Para una explicación detallada del desarrollo del proyecto y el uso de la librería Embla Carousel, has clic [aquí](https://dev.to/4alifetime/como-crear-un-carrusel-con-next-y-chakra-ui-4n16).
 
 ---
 
@@ -38,5 +38,5 @@ Luego, desde cualquier navegador, abrir la dirección [http://localhost:3000](ht
 [React Embla Carousel](https://www.embla-carousel.com/get-started/react/) - 
 [Embla API](https://www.embla-carousel.com/api/) - 
 [Next.js](https://nextjs.org/) - 
-[Chakra UI](https://chakra-ui.com/) - 
+[Chakra UI](https://chakra-ui.com/)
 
